@@ -1,1 +1,12 @@
-# news-App-flutter  News API integration (e.g., NewsAPI.org or your custom API)  Provider for state management  Dark/Light mode toggle  News list view with title, image, and description  News details screen (on tap)  Pull-to-refresh <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/27d46d69-13ae-43a4-bdf7-eee7830c6841" /> 
+News API integration (e.g., NewsAPI.org or your custom API)
+
+Provider for state management
+
+Dark/Light mode toggle
+
+News list view with title, image, and description
+
+News details screen (on tap)
+
+Pull-to-refresh
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/27d46d69-13ae-43a4-bdf7-eee7830c6841" /> 
