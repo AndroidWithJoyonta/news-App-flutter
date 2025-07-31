@@ -1,4 +1,4 @@
-News API integration (e.g., NewsAPI.org or your custom API)
+News API integration 
 
 Provider for state management
 
